@@ -24,17 +24,17 @@ Lunchtime at the [Tesco Booze Run](https://readingoutreach.github.io/Reading-Fes
 Afternoon at the [Riverside](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-riverside.html) with 1-2-1 witnessing (with Healing & Prophecy)
 
 
+
+
 ### Friday 26th
 Lunchtime at the [Tesco Booze Run](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-booze-run.html) with 1-2-1 witnessing (with Healing & Prophecy)
 
 Afternoon at the [Riverside](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-riverside.html) with 1-2-1 witnessing (with Healing & Prophecy)
 
-
 ### Saturday 27th
 Lunchtime at the [Tesco Booze Run](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-booze-run.html) with 1-2-1 witnessing (with Healing & Prophecy)
 
 Afternoon at the [Riverside](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-riverside.html) with 1-2-1 witnessing (with Healing & Prophecy)
-
 
 ### Sunday 28th
 Carey Baptist will be leading an outreach team to the Riverside during the [afternoon](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-riverside-pm.html)
