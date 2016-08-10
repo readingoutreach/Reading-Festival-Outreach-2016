@@ -20,7 +20,7 @@ They hold to Jesus' commandment to baptism of the Holy Spirit as a integral part
 
 > 4 And while staying[a] with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me; 5 for John baptized with water, but you will be baptized with[b] the Holy Spirit not many days from now.” ... 8 But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.” – Acts 1 (ESV)
 
-The Team was setup to help facilitate the process of Christians being renewed in the Holy Spirit and encouraging them to witness both on the street, at work and school by running worship and training sessions in Reading and beyond. At the time of this website commencing the team has trained over 800 Christians how to simply witness to anyone and those 800+ christians have seen over 2,000 of the lost of Reading come to faith in Jesus in a little over 2 months.
+The Team was setup to help facilitate the process of Christians being renewed in the Holy Spirit and encouraging them to witness both on the street, at work and school by running worship and training sessions in Reading and beyond. At the time of this website commencing the team has trained over 800 Christians how to simply witness to anyone and those 800+ christians have seen the Holy Spirit bring over 2,000 of the lost of Reading come to faith in Jesus in a little over 2 months.
 
 The team regularly runs worship and Holy Spirit soaking sessions in Reading as well as evangelism training and outreach.
 
