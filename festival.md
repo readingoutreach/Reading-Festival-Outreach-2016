@@ -15,7 +15,7 @@ Here is the schedule of outreach for the festival.
 ### Wednesday 24th
 We will be doing outreach in two locations — Carey Baptist will be handing out 10,000 maps of Reading at the station
 
-We will be leading teams in Reading town centre with [1-2-1 evangelism and HOTS](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-town-24ampm.html/) (Healing On The Streets). 
+We will be leading teams in Reading town centre with [1-2-1 evangelism and HOTS](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-town-24ampm.html) (Healing On The Streets). 
 
 
 ### Thursday 25th
