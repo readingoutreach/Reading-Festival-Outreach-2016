@@ -26,6 +26,10 @@ We are lunching at XXXXXXXXX from 1pm – 2pm.  Meet at XXXXXXXXX at 13:45 for 
 
 Some members of the team  will be there from 1pm to train anybody who wants to join in the evangelism but feels unprepared.
 
+## Afterwards
+
+Please join us this evening for a time of [worship and pressing into the Holy Spirit](xxxxxx)
+
 ## Parking
 
 Limited parking is available at
