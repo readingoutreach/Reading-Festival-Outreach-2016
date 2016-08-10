@@ -11,8 +11,6 @@ end_time: "16:00"
 #event organiser details
 organiser: "Ian Stanley"
 
-
-
 ---
 
 # Riverside Outreach – Friday 26th 2016
