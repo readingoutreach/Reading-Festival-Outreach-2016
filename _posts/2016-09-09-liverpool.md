@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "The Turning goes to Liverpool 28/8 – 9/9"
-cover: "http://www.cityresidential.co.uk/wp-content/uploads/2016/03/liverpool-canvas-liv-001-liverpool-skyline.jpg"
+cover: "img/liverpoolskyline.jpg"
 date:   2016-09-09
 start_time: "10:00"
 end_time: "22:00"
