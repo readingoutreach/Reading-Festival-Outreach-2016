@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Soaking Evening"
-cover: "https://www.premier.org.uk/var/ezdemo_site/storage/images/media/images/readingawakening/22123874-1-eng-GB/readingawakening_article_image.jpg"
+cover: "https://pbs.twimg.com/media/Cmrs-ITWIAAA8g6.jpg"
 date:   2016-08-05
 start_time: "19:00"
 end_time: "21:30"

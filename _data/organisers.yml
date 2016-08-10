@@ -8,10 +8,10 @@ The Turning:
     name: The Turning
     email: "readingoutreach@icloud.com"
     website: "https://readingoutreach.github.io/Reading-Festival-Outreach-2016"
-    photo: "img/IanStanley.jpg"
+    photo: "/img/IanStanley.jpg"
 
 Jamie Cater:
     name: Jamie Cater
     email: "jamie@careybaptistchurch.org.uk"
     website: "http://www.careybaptistchurch.org.uk"
-    photo: "img/jamie.jpg"
+    photo: "/img/jamie.jpg"
