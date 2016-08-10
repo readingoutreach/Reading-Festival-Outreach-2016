@@ -407,7 +407,7 @@ h2.post-subtitle {
   @include media-query($on-palm){
     height: 100px;
     width: 100px;
-    top:0px;
+    top:-90px;
   }
 
 }
