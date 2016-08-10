@@ -19,13 +19,15 @@ layout: default
   <!-- {% assign myphoto = organiser.photo | to_asburl %} -->
 
       {% if jekyll.environment == "production" %}
-          // Production environment.
+      
           <div class="author" style="background-image:url( {{site.baseurl}}/{{organiser.photo}}  );"></div>
+          
       {% else %}
-        // development environment
+      
         <div class="author" style="background-image:url( {{organiser.photo}} );"></div>
 
       {% endif %}
+      
       <!-- <div class="author" style="background-image:url( {{ {{organiser.photo}}  | to_absurl }} );"></div> -->
   {% endif %}
 
