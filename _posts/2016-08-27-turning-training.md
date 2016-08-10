@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Evangelism Training "
-cover: "http://image.slidesharecdn.com/145simpleways-150208192044-conversion-gate02/95/5-simple-ways-you-can-reach-out-to-the-lost-2-638.jpg?cb=1423444988"
+cover: "img/reachthoselost.jpg"
 date:   2016-08-27
 start_time: "10:00"
 end_time: "13:00"
