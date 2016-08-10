@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Reading Festival 2016 – Riverside Outreach AM"
-cover: "/img/festivalstage.jpg"
+cover: "img/festivalstage.jpg"
 date:   2016-08-27
 start_time: "10:00"
 end_time: "13:00"

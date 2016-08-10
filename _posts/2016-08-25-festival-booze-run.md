@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Reading Festival 2016 – Booze Run Outreach"
-cover: "/img/festivalstage.jpg"
+cover: "img/festivalstage.jpg"
 date:   2016-08-25
 start_time: "11:00"
 end_time: "13:00"

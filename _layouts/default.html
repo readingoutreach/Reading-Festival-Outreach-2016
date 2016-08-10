@@ -8,7 +8,7 @@
     {% include header.html %}
 
 {% if page.cover %}
-  <div class="blog-cover" style="background-image:url({{page.cover}});">
+  <div class="blog-cover" style="background-image:url({{site.baseurl}}/{{page.cover}});">
 {% else %}
   <div class="blog-cover" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
 {% endif %}
