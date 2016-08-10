@@ -30,4 +30,4 @@ future: true
 
 permalink: /event/:title.html
 
-port: 4200
+port: 4100

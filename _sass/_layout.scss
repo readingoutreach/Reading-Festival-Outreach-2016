@@ -256,10 +256,28 @@
     }
 }
 
-h1.post-title {
-  font-size: 2.8em;
-  font-weight: 200;
+h1 {
+  margin-top: 1.5em;
 }
+h2 {
+  margin-top: 1.25em;
+}
+
+h1.post-title {
+  font-size: 3em;
+  font-weight: 100;
+  margin-bottom: 0.6em;
+  text-align: center;
+  width: 100%;
+}
+
+h2.post-subtitle {
+  font-size: 1.8em;
+  font-weight: 100;
+  margin-bottom: 0.4em;
+  text-align: center;
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
@@ -418,15 +436,13 @@ h1.post-title {
 
 .event-time-heading{
     margin-bottom:0px;
-    margin-top:20px;
+    // margin-top:20px;
+    font-size: 3em;
+    font-weight: 100;
+    text-align: center;
 }
 
-h1 {
-  margin-top: 2.5em;
-}
-h2 {
-  margin-top: 2em;
-}
+
 
 
 .footer-heading {
@@ -439,4 +455,16 @@ h2 {
   font-size: 0.9em;
   margin-bottom: 0;
   text-align: center;
+}
+
+p {
+  font-weight: 300;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  width: 80%;
+  margin-left: auto;
 }
