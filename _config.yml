@@ -13,8 +13,8 @@ event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
  News feed for Gospel Outreach in Reading
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://readingoutreach.github.io/Reading-Festival-Outreach-2016" # the base hostname & protocol for your site
+baseurl: "Reading-Festival-Outreach-2016" # the subpath of your site, e.g. /blog
+url: "https://readingoutreach.github.io/" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: Ian Stanley
