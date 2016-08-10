@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Evangelism Training "
-cover: "https://pbs.twimg.com/media/Cmrs-ITWIAAA8g6.jpg"
+cover: "img/soaking.jpg"
 date:   2016-08-06
 start_time: "10:00"
 end_time: "13:00"

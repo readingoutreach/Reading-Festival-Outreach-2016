@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Evangelism Training "
-cover: "http://d2.christiantoday.com/en/full/48776/the-gate.jpg"
+cover: "img/reachthoselost.jpg"
 date:   2016-07-23
 start_time: "10:00"
 end_time: "13:00"

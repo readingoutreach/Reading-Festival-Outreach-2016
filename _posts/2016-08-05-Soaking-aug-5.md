@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Soaking Evening"
-cover: "https://pbs.twimg.com/media/Cmrs-ITWIAAA8g6.jpg"
+cover: "img/soaking.jpg"
 date:   2016-08-05
 start_time: "19:00"
 end_time: "21:30"
