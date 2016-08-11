@@ -391,13 +391,13 @@ h2.post-subtitle {
 
 .author{
   position: absolute;
-  top: -90px;
+  top: -150px;
   right: 20px;
   height: 160px;
   width: 160px;
   border-radius: 6px;
   background-size: cover;
-  box-shadow: 1px 1px 2px 1px #C4C4C4;
+  box-shadow: 1px 4px 5px 1px rgba(0,0,0,0.4);
 
   @include media-query($on-laptop){
     height: 140px;
