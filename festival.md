@@ -3,19 +3,20 @@ layout: page
 navigation_title: Festival
 title: Reading Festival 2016
 permalink: /festival/
+cover: "img/festivalstage.jpg"
 ---
 
 # Reading Festival 2016 Outreach
 
-This year we are out again reaching out to the festival-goers. 
+This year we are out again reaching out to the festival-goers.
 
-Here is the schedule of outreach for the festival. 
+Here is the schedule of outreach for the festival.
 
 
 ### Wednesday 24th
 We will be doing outreach in two locations — Carey Baptist will be handing out 10,000 maps of Reading at the station
 
-We will be leading teams in Reading town centre with [1-2-1 evangelism and HOTS](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-town-24ampm.html) (Healing On The Streets). 
+We will be leading teams in Reading town centre with [1-2-1 evangelism and HOTS](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-town-24ampm.html) (Healing On The Streets).
 
 
 ### Thursday 25th
@@ -40,4 +41,4 @@ Afternoon at the [Riverside](https://readingoutreach.github.io/Reading-Festival-
 Carey Baptist will be leading an outreach team to the Riverside during the [afternoon](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/festival-riverside-pm.html)
 
 ### Please keep us in your prayers
-The Turning team are going to [Liverpool](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/liverpool.html) to train the Liverpool churches in evangelism and lead the outreach there. 
+The Turning team are going to [Liverpool](https://readingoutreach.github.io/Reading-Festival-Outreach-2016/event/liverpool.html) to train the Liverpool churches in evangelism and lead the outreach there.
