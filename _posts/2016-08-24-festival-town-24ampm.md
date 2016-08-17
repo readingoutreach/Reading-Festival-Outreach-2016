@@ -30,9 +30,7 @@ Carey Baptist will be continuing until about 5pm and you are welcome to continue
 
 ## Parking
 
-Limited parking is available at the [Carey Centre](http://www.careybaptistchurch.org.uk/about/contact/)
-
-Alternative parking is available at [Q-Park in Chatham Place](http://www.q-park.co.uk/parking/reading/q-park-chatham-place).
+Parking is available at [Q-Park in Chatham Place](http://www.q-park.co.uk/parking/reading/q-park-chatham-place).
 
 ## Afterwards ...
 We will break for lunch about 1pm to share and encourage others and to eat lunch.

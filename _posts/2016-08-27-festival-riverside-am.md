@@ -24,7 +24,11 @@ In addition, Jamie Cater from [Carey Baptist Church](http://www.careybaptistchur
 
 ## Meet
 
-We are lunching at XXXXXXXXX from 1pm – 2pm.  Meet at XXXXXXXXX at 13:45 for a short time of prayer before we go out.
+Meet at 
+
+## Lunch
+
+We are lunching at XXXXXXXXX from 1pm – 2pm.  Meet at 13:45 for a short time of prayer before we go out.
 
 Some members of the team  will be there from 1pm to train anybody who wants to join in the evangelism but feels unprepared.
 
