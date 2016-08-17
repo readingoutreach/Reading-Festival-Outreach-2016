@@ -13,7 +13,6 @@ organiser: "The Turning"
 
 ---
 
-
 The Turning team are training in Liverpool for two weeks.
 
 In partnership with a group of churches in Liverpool and hosted by (Frontline Church)[https://www.facebook.com/frontlineuk] we shall be holding nightly soaking meetings followed by training in the morning and outreach lunchtimes and afternoons on the streets of Liverpool.

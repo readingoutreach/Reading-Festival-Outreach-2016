@@ -13,8 +13,6 @@ organiser: "Ian Stanley"
 
 ---
 
-# Riverside Outreach – Friday 26th 2016
-
 Ian Stanley (from [Reading Family Church](http://www.readingfamilychurch.org.uk) and part of The Turning Team) will be leading a group down by the River Thames on the side of the Festival site to do some 1-2-1 witnessing (and exercising their prophecy and healing gifts if appropriate) – all are welcome including first timers.
 
 In addition, Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness as well.

@@ -11,11 +11,7 @@ end_time: "13:00"
 #event organiser details
 organiser: "Ian Stanley"
 
-
-
 ---
-
-# Riverside Outreach – Wednesday 25th 2016
 
 Ian Stanley (from [Reading Family Church](http://www.readingfamilychurch.org.uk) and part of The Turning Team) will be leading a group into the town centre to witness to the many who stray into town.
 
