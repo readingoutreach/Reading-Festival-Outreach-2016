@@ -1,0 +1,11 @@
+// Breakpoints for  Media Queries
+
+$iphone6landscape: new-breakpoint(max-width 667px 12);
+$ipadminisplit: new-breakpoint(max-width 694px 12);
+$iphone6plus: new-breakpoint(max-width 414px 12);
+$iphone6: new-breakpoint(max-width 375px 12);
+$iphone5: new-breakpoint(max-width 320px 12);
+
+
+$double-event-col: new-breakpoint(max-width 800px 8);
+$single-event-col: new-breakpoint(max-width 600px 4);

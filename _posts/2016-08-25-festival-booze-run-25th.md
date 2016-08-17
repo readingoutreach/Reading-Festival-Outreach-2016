@@ -28,24 +28,17 @@ I am leading a team of Christians who wish to do some 1-2-1 witnessing (and exer
 Meet at *The Gate, Oxford Road* (553 Oxford Road, RG30 1HJ) at 11:30 for a short time of prayer before we go out.
 
 Some members of the team  will be there from 10:30 to train anybody who wants to join in the evangelism but feels unprepared.
-Limited parking is available at The Gate and .
-
-## Parking
-
-Limited parking is available at
-- the [Carey Centre](http://www.careybaptistchurch.org.uk/about/contact/)
-- [The Gate, 553 Oxford Road, RG30 1HJ](http://www.thegate.uk.com/contact/) TBC
-- there ought to be some parking in Tesco's car park (RG1 7LA)
-
-Alternative parking is available at [Q-Park in Chatham Place](http://www.q-park.co.uk/parking/reading/q-park-chatham-place).
-
-
 
 ## Alternatively ...
 Meet together for a short time of prayer at the [Carey Centre](http://www.careybaptistchurch.org.uk/about/contact/) at 11:00 and Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness as well.
 
-## Afterwards ...
-Meet with us to have lunch at XXXXXXXXX before coming out again in the afternoon on the Riverside.
+{% include festival-lunch.md %}
 
-## Outreach Promo Video
-We have a [video](http://shinny.co.uk/severn/videos/prereading2015v3.mov) produced last year by one of our techie members at Reading Family Church (running time 2:50). Please feel free to use to advertise the outreach.
+{% include festival-parking.md %}
+[The Gate, 553 Oxford Road, RG30 1HJ](http://www.thegate.uk.com/contact/) (TBC)
+
+There ought to be some parking in Tesco's car park (RG1 7LA)
+
+{% include festival-video.md %}
+
+For further details contact Ian Stanley (see below).
