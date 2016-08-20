@@ -19,7 +19,7 @@ organiser: "Jamie Cater"
 
 The Turning Team will be unavailable for this session as they are traveling to Liverpool to run evangelism training for 2 weeks with daily soaking and outreach sessions. Please keep them in your prayers and that God will open up the hearts of the people of Liverpool.
 
-Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness
+Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness.
 
 {% include festival-lunch.md %}
 
