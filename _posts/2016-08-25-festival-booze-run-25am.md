@@ -29,8 +29,6 @@ Meet together for a short time of prayer at the [Carey Centre](http://www.careyb
 {% include festival-parking.md %}
 [The Gate, 553 Oxford Road, RG30 1HJ](http://www.thegate.uk.com/contact/) (TBC)
 
-There ought to be some parking in Tesco's car park (RG1 7LA)
-
 {% include festival-video.md %}
 
 For further details contact Ian Stanley (see below).
