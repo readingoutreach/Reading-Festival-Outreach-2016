@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Reading Festival 2016 – Town Centre Outreach"
+title:  "Reading Festival 2016 – Wednesday Town Centre Outreach"
 cover: "img/festivalstage.jpg"
 date:   2016-08-24
 start_time: "11:00"

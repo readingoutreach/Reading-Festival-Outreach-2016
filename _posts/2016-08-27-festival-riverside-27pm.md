@@ -2,11 +2,11 @@
 layout: post
 
 #event information
-title:  "Reading Festival 2016 – Riverside Outreach AM"
+title:  "Reading Festival 2016 – Saturday PM Riverside"
 cover: "img/festivalstage.jpg"
 date:   2016-08-27
-start_time: "10:00"
-end_time: "13:00"
+start_time: "14:00"
+end_time: "16:00"
 
 #event organiser details
 organiser: "Ian Stanley"

@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Reading Festival 2016 – Riverside Outreach PM"
+title:  "Reading Festival 2016 – Sunday PM Riverside" 
 cover: "img/festivalstage.jpg"
 date:   2016-08-28
 start_time: "14:00"

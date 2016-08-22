@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Reading Festival 2016 – Booze Run Outreach"
+title:  "Reading Festival 2016 – Thursday Lunchtime Booze Run Outreach"
 cover: "img/festivalstage.jpg"
 date:   2016-08-25
 start_time: "11:00"
@@ -23,11 +23,7 @@ On Thursday and Friday late mornings/ lunchtimes most Festival-goers turn up at 
 
 I am leading a team of Christians who wish to do some 1-2-1 witnessing (and exercising their prophecy and healing gifts if appropriate).
 
-## Meet
-
-Meet at *The Gate, Oxford Road* (553 Oxford Road, RG30 1HJ) at 11:30 for a short time of prayer before we go out.
-
-Some members of the team  will be there from 10:30 to train anybody who wants to join in the evangelism but feels unprepared.
+{% include festival-meet.md %}
 
 ## Alternatively ...
 Meet together for a short time of prayer at the [Carey Centre](http://www.careybaptistchurch.org.uk/about/contact/) at 11:00 and Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness as well.
