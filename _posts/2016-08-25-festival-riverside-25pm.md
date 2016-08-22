@@ -17,6 +17,8 @@ Ian Stanley (from [Reading Family Church](http://www.readingfamilychurch.org.uk)
 
 In addition, Jamie Cater from [Carey Baptist Church](http://www.careybaptistchurch.org.uk) will be taking a team out to the Riverside to witness as well.
 
+{% include festival-riverside.md %}
+
 {% include festival-lunch.md %}
 
 {% include festival-parking.md %}

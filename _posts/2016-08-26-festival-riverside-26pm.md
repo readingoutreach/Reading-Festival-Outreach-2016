@@ -19,10 +19,14 @@ In addition, Jamie Cater from [Carey Baptist Church](http://www.careybaptistchur
 
 {% include festival-lunch.md %}
 
-## Afterwards
-Please join us this evening for a time of [worship and pressing into the Holy Spirit](http://jesusdiedfor.me/event/Soaking-200816.html)
+
+
+{% include festival-riverside.md %}
 
 {% include festival-parking.md %}
+
+## Afterwards
+Please join us this evening for a time of [worship and pressing into the Holy Spirit](http://jesusdiedfor.me/event/Soaking-200816.html)
 
 {% include festival-video.md %}
 
