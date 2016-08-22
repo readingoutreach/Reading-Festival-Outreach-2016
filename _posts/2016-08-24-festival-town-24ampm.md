@@ -12,8 +12,6 @@ organiser: "Ian Stanley"
 
 ---
 
-# Town Centre Outreach – Wednesday 25th 2016
-
 Ian Stanley (from [Reading Family Church](http://www.readingfamilychurch.org.uk) and part of The Turning Team) will be leading a group into the town centre to witness to the many who stray into town.
 
 We welcome those Christians who wish to do some 1-2-1 witnessing (and exercising their prophecy and healing gifts if desired).
