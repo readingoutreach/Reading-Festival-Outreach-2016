@@ -26,10 +26,6 @@ Afternoon at the [Riverside](http://jesusdiedfor.me/event/festival-riverside-25p
 
 
 ### Friday 26th
-Lunchtime at the [Tesco Booze Run](http://jesusdiedfor.me/event/festival-booze-run-26am.html) with 1-2-1 witnessing (with Healing & Prophecy)
-
-Afternoon at the [Riverside](http://jesusdiedfor.me/event/festival-riverside-26pm.html) with 1-2-1 witnessing (with Healing & Prophecy)
-
 Evening please join us for a time of [Worship & Soaking in the Holy Spirit](http://jesusdiedfor.me/event/Soaking-200816.html)
 
 ### Saturday 27th
