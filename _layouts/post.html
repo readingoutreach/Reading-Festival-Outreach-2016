@@ -16,7 +16,6 @@ layout: default
   </header>
 
   {% if organiser.photo %}
-  <!-- {% assign myphoto = organiser.photo | to_asburl %} -->
 
       {% if jekyll.environment == "production" %}
 
@@ -24,11 +23,10 @@ layout: default
 
       {% else %}
 
-        <div class="author" style="background-image:url(  {{site.baseurl}}/{{organiser.photo}} );"></div>
+        <div class="author" style="background-image:url( {{site.baseurl}}/{{organiser.photo}}  );"></div>
 
       {% endif %}
 
-      <!-- <div class="author" style="background-image:url( {{ {{organiser.photo}}  | to_absurl }} );"></div> -->
   {% endif %}
 
     <div class="post-content" itemprop="articleBody">
