@@ -1,0 +1,35 @@
+{
+  "name": "jesusdiedforme",
+  "version": "1.0.0",
+  "description": "jesusdiedfor.me website",
+  "main": "index.html",
+  "scripts": {
+    "test": "bundle exec jekyll b",
+    "start": "npm run build && live-server _site",
+    "serve": "live-server _site",
+    "build": "bundle exec jekyll s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iandstanley@github.com/jesusdiedforme/jesusdiedfor.me.git"
+  },
+  "author": "Ian Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusdiedforme/jesusdiedfor.me/issues"
+  },
+  "homepage": "https://github.com//jesusdiedforme/jesusdiedfor.me#readme",
+  "devDependencies": {
+    "concurrently": "^3.0.0",
+    "nodemon": "^1.10.2",
+    "babel-cli": "^6.14.0",
+    "bower": "^1.7.9",
+    "browserify": "^13.1.0",
+    "cloudcmd": "^5.6.2",
+    "jquery": "^3.1.1",
+    "live-server": "^1.1.0",
+    "mocha": "^3.0.2",
+    "pug": "^2.0.0-beta6",
+    "yo": "^1.8.5"
+  }
+}
