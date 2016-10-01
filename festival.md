@@ -1,16 +1,29 @@
 ---
 layout: page
-navigation_title: Festival
+#navigation_title: Festival
 title: Reading Festival 2016
 permalink: /festival/
 cover: "img/festivalstage.jpg"
 ---
 
-# Reading Festival 2016 Outreach
+{:.post-subtitle}
+## Reading Festival 2016 Outreach
 
 This year we are out again reaching out to the festival-goers.
 
-Here is the schedule of outreach for the festival.
+We are joining forces again to reach out to the 80,000 people who descend on Reading each year for the Reading Festival.
+  Together we are setting up a programme of outreach where we hope to see dozens if not hundreds turn to Jesus this year.
+  Please see the events listed below for where and when we are out.</p>
+
+{:.post-subtitle}
+## Churches Involved
+The events listed here are run by members from the following churches:
+
+- [Carey Baptist Church](http://www.careybaptistchurch.org.uk)
+- [Lifespring](http://www.lifespringchurch.org.uk)
+- [Network Vineyard](http://www.networkvineyard.org.uk)
+- [Reading Family Church](http://www.readingfamilychurch.org.uk)
+- [The Gate](http://www.thegate.uk.com)
 
 
 ### Wednesday 24th

@@ -5,12 +5,25 @@ title: The Turning
 permalink: /turning/
 ---
 
-<em>The Turning</em> is the name of a group of Christians from the following churches:
+<em>[The Turning](http://theturning.eu)</em> is the name of a group of Christians from the following churches:
 
 - [Lifespring](http://www.lifespringchurch.org.uk)
 - [Network Vineyard](http://www.networkvineyard.org.uk)
 - [Reading Family churches](http://www.readingfamilychurch.org.uk)
 - [The Gate](http://www.thegate.uk.com)
+
+They have setup a national team to train other cities and also setup teams in the following towns and cities:
+
+- Liverpool
+- South Oxfordshire (Abingdon, Henley, Wantage & Didcot)
+- Swindon
+- Southhampton (planned)
+- Leicester (planned)
+- Lille (planned)
+- Plymouth (planned)
+- Cornwall (planned)
+
+They have had invites from over 31 towns and cities in the UK and abroad an plan to take The Turning to all those who will work together for the Gospel.
 
 They are passionate about the lost and want to reach them for Jesus. They believe absolutely in the Great Commission:
 
@@ -25,3 +38,7 @@ The Team was setup to help facilitate the process of Christians being renewed in
 The team regularly runs worship and Holy Spirit soaking sessions in Reading as well as evangelism training and outreach.
 
 The Turning team has also been invited to many cities in the UK and abroad to train Christians in evangelism and the Great Commission.
+
+{:.post-subtitle}
+## The Turning Schedule
+The full list of The Turning's confirmed schedule can be found on the [main page](/) of this site under the Future and Past events section and also on their main webpage.
