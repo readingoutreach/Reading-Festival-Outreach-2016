@@ -21,11 +21,11 @@ Full details to follow ...
 
 You are invited to join us to share the good news of God's love on the streets of Southampton. [SCN churches](http://www.southamptonchristiannetwork.org.uk/) are coming together for training ad outreach during the day and meeting for worship in the evenings. Yanks Oyekan and his team have seen a great response on the streets of Readig and are joining us to share their experiences and stories.
 
-The Southampton Turning starts on *Sunday 9th Ocotber at City Life Church 6:30pm*, with refreshments, prayer, worship and an outline of the week. From 10—21 October there will be daily training sessions at *[Above Bar Church](http://abovebarchurch.org.uk)* followed by outreach. At *7:30pm* there will be worship and testimony evenings as below. 
+The Southampton Turning starts on *Sunday 9th Ocotber at City Life Church 6:30pm*, with refreshments, prayer, worship and an outline of the week. From 10—21 October there will be daily training sessions at [Above Bar Church](http://abovebarchurch.org.uk) followed by outreach. At *7:30pm* there will be worship and testimony evenings as below. 
 
 ## Sunday Celebration 9th & 16th October
 
-There will be a weekly celebration on Sunday's at *[City Life Church](http://www.citylife.org.uk)*, 286 Burgess Road
+There will be a weekly celebration on Sunday's at [City Life Church](http://www.citylife.org.uk), 286 Burgess Road
 
 ## Training & Outreach, Mon—Fri (& Sat am) 
 
