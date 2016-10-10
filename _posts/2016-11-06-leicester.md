@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "The Turning goes to Leicester 6/11 – 18/11"
 cover: "img/leicester.jpg"
-date:   2016-11-06
+date:   2016-11-18
 start_time: "10:00"
 end_time: "22:00"
 
