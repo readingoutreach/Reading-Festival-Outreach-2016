@@ -1,0 +1,20 @@
+---
+layout: post
+
+#event information
+title:  "Swansea Turning ─ 11th to 17th May"
+cover: "img/swansea.jpg"
+date:   2017-05-11
+start_time: "10:00"
+end_time: "15:30"
+
+#event organiser details
+
+organiser: "The Turning"
+
+---
+
+In beautiful Swansea this week for a short mission to reach the people of Swansea.
+
+This mission's secondary aim is to iron out any issues prior to New Wine Cymru's nationwide mission to Wales happening in July. New Wine Cymru are hopiong to see 10,000 people ask Jesus to be their Lord and Saviour across 30 towns and cities in Wales.
+
