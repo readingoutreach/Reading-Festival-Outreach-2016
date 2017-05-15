@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "The Turning goes to Southampton 9/10 – 22/10"
+title:  "Southampton Turning 9/10 – 22/10"
 cover: "img/southampton.jpg"
 date:   2016-10-22
 start_time: "10:00"
