@@ -1,6 +1,6 @@
 ---
 title: Healing Prayer Meeting @ St James
-date: 2017-08-23 00:00:00 +0000
+date: 2017-07-31 22:10:06 +0100
 cover: "/uploads/2017/08/23/stjames.jpg"
 '': ''
 ---
