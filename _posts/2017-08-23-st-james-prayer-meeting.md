@@ -1,8 +1,8 @@
 ---
-title: St James Prayer Meeting
-date: 2017-07-14 19:15:16 +0100
-cover: "/uploads/2017/08/23/stjames-1.jpg"
 '': ''
+cover: "/uploads/2017/08/23/stjames-1.jpg"
+date: 2017-06-14 19:15:16 +0100
+title: St James Prayer Meeting
 ---
 
 
