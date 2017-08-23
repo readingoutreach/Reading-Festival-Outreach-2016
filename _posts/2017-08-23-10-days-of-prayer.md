@@ -1,7 +1,7 @@
 ---
 title: 10 Days of Prayer
 date: 2017-08-19 18:46:10 +0100
-cover: "/uploads/2017/08/23/10 Days.jpg"
+cover: "/uploads/2017/08/23/10 Days-1.jpg"
 '': ''
 ---
 
