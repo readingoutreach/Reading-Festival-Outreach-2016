@@ -1,8 +1,8 @@
 ---
-title: God interrupts a meeting for His agenda
-date: 2017-08-23 00:00:00 +0000
-cover: "/uploads/2017/08/23/prayer-1.jpeg"
 '': ''
+cover: "/uploads/2017/08/23/prayer-1.jpeg"
+date: 2017-07-31 18:12:57 +0100
+title: God interrupts a meeting for His agenda
 ---
 
 
