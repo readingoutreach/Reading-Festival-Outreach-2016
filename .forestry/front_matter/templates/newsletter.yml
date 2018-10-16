@@ -1,0 +1,34 @@
+---
+label: Newsletter
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Post Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  default: Invalid date
+  label: Date Published
+  config:
+    date_format: YYYY/MM/DD
+- type: file
+  name: cover
+  label: Cover Image
+- type: image_gallery
+  name: ''
+- type: datetime
+  name: ''
+pages:
+- _posts/2017-08-23-healing-on-the-streets.md
+- _posts/2017-08-23-god-interrupts-a-meeting-for-his-agenda.md
+- _posts/2017-08-23-deliverance-ministry-expanded.md
+- _posts/2017-08-23-10-days-of-prayer.md
+- _posts/2017-08-23-test.md
+- _posts/2017-08-23-healing-prayer-meeting-st-james.md
+- _posts/2017-08-23-impact-reading-20th-25th-june.md
+- _posts/2017-08-23-st-james-prayer-meeting.md
+- _posts/2017-08-23-reading-outreach-june-10th.md
