@@ -165,7 +165,7 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rack (1.6.4)
+    rack (1.6.12)
     rake (11.3.0)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -224,7 +224,7 @@ DEPENDENCIES
   jekyll-seo-tag
   neat
   nokogiri
-  rack (~> 1.1)
+  rack (~> 1.6)
   rspec
   travis
 
